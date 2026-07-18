@@ -1,84 +1,148 @@
 <h1 align="center">Hi 👋, I'm Michael Abebe Ayalew</h1>
-<h3 align="center">Software Developer | Web Designer | Tech Innovator from Ethiopia</h3>
+
+<h3 align="center">
+Full Stack Software Developer | Building Modern Web Applications & ERP Solutions
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miko930&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-- 🔭 I'm currently building full-stack web apps, ERP systems, and custom Odoo modules for businesses in Ethiopia
-- 🌱 I'm currently exploring AI-powered dev tools like Claude Code, Cursor, and Framer
-- 💬 Ask me about React, Next.js 14, TypeScript, Prisma, and Python
-- 🎓 Studying Computer Science at Microlink Information Technology College (2021 – Present)
-- 📫 How to reach me: Michaelabebe591@gmail.com
-- ⚽ Fun fact: When I'm not coding, I'm probably at the gym, playing football, or shooting photos/video
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:Michaelabebe591@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gmail" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miko930" />
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.prisma.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.odoo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="40" height="40"/>
-</a>
-</p>
-
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miko930&theme=github_dark" />
+  <img src="https://komarev.com/ghpvc/?username=miko930&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 👨‍💻 About Me
 
-- **[Coffee Shop Website](https://darikcoffee.com)** — Responsive site for Darik Coffee with interactive menu, brand storytelling, and gallery
-- **[Photography Studio Website](https://girmamogespictures.com)** — Portfolio site for Girma Moges Pictures with gallery, services, and booking form
-- **[Digital Marketing Agency Website](https://tamaddiss.vercel.app)** — Animated landing page with client showcase and services overview
-- **[Odoo Custom Modules](https://github.com/miko930/odoo-custom-module)** — 5 production-grade modules across HR, Accounting, Services & Education
-- **[ERP System](https://github.com/miko930/erp-system)** — Full-featured ERP with HR, inventory, finance & sales reporting (Next.js 14, Prisma, NextAuth v5)
+I'm a software developer from Ethiopia passionate about building scalable web applications that solve real business problems.
+
+I enjoy developing ERP systems, business management software, e-commerce platforms, and modern websites using React, Next.js, TypeScript, Python, and PostgreSQL.
+
+Currently, I'm expanding my knowledge in AI-assisted development and modern software architecture.
+
+---
+
+## 🚀 Current Focus
+
+- 💼 Building full-stack business applications
+- 🌱 Learning AI-powered development workflows
+- 📚 Studying Computer Science
+- ⚡ Exploring scalable backend architecture
+- 🎯 Looking for Software Engineering opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,javascript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres,prisma" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### ☕ Darik Coffee
+
+Responsive coffee shop website featuring menu management, gallery, and brand storytelling.
+
+🔗 https://darikcoffee.com/
+
+---
+
+### 📸 Girma Moges Pictures
+
+Photography portfolio with booking system, responsive gallery, and SEO optimization.
+
+🔗 https://girmamogespictures.com/
+
+---
+
+### 🌐 TamAddiss Agency
+
+Animated digital marketing agency website built with Next.js.
+
+🔗 https://tamaddiss.vercel.app/
+
+---
+
+### 🏢 ERP System
+
+Modern ERP platform featuring:
+
+- HR
+- Inventory
+- Sales
+- Finance
+- Authentication
+- Reporting
+
+**Tech**
+
+- Next.js 14
+- Prisma
+- PostgreSQL
+- NextAuth
+
+🔗 https://github.com/miko930/erp-system
+
+---
+
+### ⚙️ Odoo Custom Modules
+
+Collection of custom Odoo modules for:
+
+- HR
+- Accounting
+- Education
+- Services
+
+🔗 https://github.com/miko930/odoo-custom-module
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=miko930&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miko930&theme=github-dark-blue&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko930&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miko930&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+📧 **Email**
+
+Michaelabebe591@gmail.com
+
+---
+
+⭐ *"I enjoy turning business ideas into reliable, scalable software."*
