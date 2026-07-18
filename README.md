@@ -152,6 +152,10 @@ Business Management Platform
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko930&layout=compact&theme=github_dark&hide_border=true"/>
 
+<a href="https://www.linkedin.com/in/michael-abebe-070427344">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
 </p>
 
 <p align="center">
