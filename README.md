@@ -158,12 +158,9 @@ Business Management Platform
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=miko930&theme=github-dark-blue&hide_border=true"/>
-
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-devoop" />
 </p>
-
 ---
 
 <div align="center">
