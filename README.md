@@ -165,11 +165,10 @@ Business Management Platform
 
 <div align="center">
 
-# 📈 Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miko930&theme=github_dark"/>
-
-</div>
+<h3 align="center">Contribution Graph</h3>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michael-devoop&theme=github_dark" />
+</p>
 
 ---
 
