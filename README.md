@@ -14,36 +14,6 @@
 
 <div align="center">
 
-## 🌙 About Me
-
-</div>
-
-```yaml
-Name: Michael Abebe Ayalew
-Location: Ethiopia 🇪🇹
-
-Focus:
-  - Full Stack Development
-  - ERP Systems
-  - Business Software
-  - Modern UI/UX
-  - AI Assisted Development
-
-Currently Learning:
-  - AI Development Tools
-  - Software Architecture
-  - Odoo Development
-
-Open To:
-  - Software Engineering Roles
-  - Freelance Projects
-  - Open Source Collaboration
-```
-
----
-
-<div align="center">
-
 # ⚡ Tech Stack
 
 </div>
